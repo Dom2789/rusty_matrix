@@ -1,7 +1,8 @@
 [package]
-name = "hello_rust"
+name = "rusty_matrix"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+embedded-graphics = "0.7.0"
 rpi-led-matrix = "0.4.0"
